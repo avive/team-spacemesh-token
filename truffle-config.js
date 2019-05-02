@@ -47,7 +47,7 @@ module.exports = {
          network_id: 1,
          host: "127.0.0.1",
          port: 8092,   // local custom geth port
-         from: "0x2ccf2e37b2a2a3f42e647adc16d37e8534b75d30", // deploy account
+         from: "0xb0512F306B6D8A759f0A6Ae9Be27272429D94ee4", // deploy account
          gasPrice: 3000000000, // 3 gwei
      },
 
