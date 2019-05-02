@@ -1,0 +1,10 @@
+{
+  "name": "team-spacemesh-token",
+  "version": "1.0.0",
+  "description": "Team Spacemesh Token",
+  "license": "MIT",
+  "author": "Aviv Eyal",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.2.0"
+  }
+}
