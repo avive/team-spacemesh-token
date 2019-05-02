@@ -1,10 +1,5 @@
 node_modules
 build
 .DS_Store
-.infura-key
 .secret
-.firebaserc
-.firebase
-eth*.txt
-firebase-debug.log
 config.md
