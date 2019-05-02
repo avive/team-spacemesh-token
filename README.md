@@ -21,4 +21,3 @@ First ensure you are in a new and empty directory.
     compile
     migrate
     ```
-  

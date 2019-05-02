@@ -1,4 +1,4 @@
-var TeamSpacemeshToken = artifacts.require("TeamSpacemeshToken");
+const TeamSpacemeshToken = artifacts.require("TeamSpacemeshToken");
 
 module.exports = function(deployer) {
   deployer.deploy(TeamSpacemeshToken);
